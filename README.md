@@ -6,4 +6,4 @@ Based on [this awesome guide](https://www.youtube.com/watch?v=TiH0HYBFMMI&list=L
 
 ## Screencast Demo
 
-[Click](assets/screencast.webm)
+![Screencast](assets/screencast.gif)
