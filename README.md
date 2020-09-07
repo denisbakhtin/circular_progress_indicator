@@ -6,4 +6,4 @@ Based on [this awesome guide](https://www.youtube.com/watch?v=TiH0HYBFMMI&list=L
 
 ## Screencast Demo
 
-![Screencast](assets/screencast.gif)
+![Screencast](assets/screencast.gif =400x)
